@@ -1,4 +1,4 @@
-// Example to print "Hello Aerell!" in Python.
+// Example to print "Hello Aerell!" in C.
 
 // Include standard library for printf function
 #include <stdio.h>
